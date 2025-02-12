@@ -1,0 +1,4 @@
+<?php
+// Script contoh
+
+phpinfo();
