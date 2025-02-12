@@ -1,4 +1,5 @@
 <?php
 // Script contoh
 
-phpinfo();
+//phpinfo();
+echo "<h1>Vlog jadi komodo sehari</h1>";
